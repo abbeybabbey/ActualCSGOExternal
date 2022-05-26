@@ -3,7 +3,7 @@
 #include "memory.h"
 #include "offsets.h"
 
-bool legit_mode = false;
+bool legit_mode = true;
 
 void features::bhop()
 {
